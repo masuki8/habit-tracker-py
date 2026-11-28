@@ -1,0 +1,5 @@
+Django
+djangorestframework
+django-allauth[headless]
+psycopg[binary]
+gunicorn
